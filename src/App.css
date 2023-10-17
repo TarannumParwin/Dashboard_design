@@ -5,6 +5,13 @@ body {
   color: #9e9ea4;
   font-family: "Montserrat", sans-serif;
 }
+.search-box {
+  margin-left: 10vh;
+}
+
+.search-box input {
+  height: 20px;
+}
 
 .icon {
   vertical-align: middle;
@@ -23,7 +30,7 @@ body {
 
 .close_icon {
   color: red;
-  margin-left: 30px;
+  margin-left: 30px;     
   margin-top: 10px;
   cursor: pointer;
 }
